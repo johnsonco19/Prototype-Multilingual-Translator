@@ -7,4 +7,5 @@
 
 # Imports 
 
-`pip install translate`
+`pip install translate` <br>
+`pip install googletrans==4.0.0-rc1`
